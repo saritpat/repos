@@ -4,7 +4,8 @@
 
 int main()
 {
-    double R, A;
+    double R;
+    double A;
     scanf("%lf", &R);
     double PI = 22 / 7.0;
     A = PI * R * R;
